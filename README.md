@@ -36,7 +36,7 @@ npm install https://github.com/lidorsystems/integralui-web-grid.git
 or directly from NPM
 
 ```bash
-npm i integralui-web
+npm i integralui-web-grid
 ```
 
 Open your application and add a reference to a component you want to use. For example, if you are using the IntegralUI Grid component:</p>
@@ -97,7 +97,7 @@ Set the resourcePath property of IntegralUI Web components to point to /integral
 
 ## QuickStart App
 
-There is a demo application with source code that contains samples for each component included in the IntegralUI Web Lite library. It can help you to get started quickly with learning about the components and write tests immediatelly. 
+There is a demo application with source code that contains samples for each component included in the IntegralUI Web library. It can help you to get started quickly with learning about the components and write tests immediatelly. 
 
 From [IntegralUI Web - QuickStart](https://github.com/lidorsystems/integralui-web-quickstart) you can download a demo app for Angular, AngularJS, React and Vanilla JavaScript. A detailed information about each of these quick-start demos is available in ReadMe file, located in the root folder of the demo app.
 
