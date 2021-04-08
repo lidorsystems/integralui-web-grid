@@ -1,6 +1,6 @@
 # IntegralUI Web - Grid, v21.1
 
-IntegralUI Web - Grid is a native Web Component that displays tabular data sets. 
+IntegralUI Web - Grid is a native Web Component that displays tabular data sets. You can use it in Angular, React, Vue or any other JavaScript framework.
 
 <b>Note</b> This component is also part of [IntegralUI Web](https://github.com/lidorsystems/integralui-web.git) product suite.
 
