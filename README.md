@@ -1,10 +1,18 @@
 # IntegralUI Web - Grid, v21.1
 
-IntegralUI Web - Grid is a native Web Component that displays tabular data sets. It is fully customizable using column and row templates, comes with high performance during loading and scrolling of thousands of records, dynamic grouping with custom aggregation functions, advanced filtering and much more.
-
-A compolete feature list is available here: [IntegralUI Web - Grid features](https://lidorsystems.com/products/web/studio/features/grid/).
+IntegralUI Web - Grid is a native Web Component that displays tabular data sets. 
 
 <b>Note</b> This component is also part of [IntegralUI Web](https://github.com/lidorsystems/integralui-web.git) product suite.
+
+## Main Features
+
+- High Performance, loading and scrolling of thousands of records 
+- Dynamic grouping with custom aggregation functions
+- Advanced filtering and Sorting
+- Built-in Editors
+- Fully customizable with column and row templates 
+
+A complete feature list is available here: [IntegralUI Web - Grid features](https://lidorsystems.com/products/web/studio/features/grid/).
 
 
 ## Dependencies
