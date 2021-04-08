@@ -1,0 +1,30 @@
+{
+  "name": "integralui-web-grid",
+  "version": "21.1.0",
+  "description": "IntegralUI Web - Grid is a native Web Component that displays tabular data sets",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lidorsystems/integralui-web-grid.git"
+  },
+  "keywords": [
+    "grid",
+    "components",
+    "integralui",
+    "ui",
+    "web",
+    "web-components",
+    "javascript",
+    "angular",
+    "react",
+    "vue"
+  ],
+  "author": "Lidor Systems",
+  "license": "SEE LICENSE in LICENSE.md",
+  "homepage": "https://github.com/lidorsystems/integralui-web-grid",
+  "bugs": {
+    "url": "https://github.com/lidorsystems/integralui-web-grid/issues"
+  }
+}
