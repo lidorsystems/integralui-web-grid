@@ -24,7 +24,7 @@ IntegralUI Web - Grid is built on top of [LitElement](https://github.com/Polymer
 
 ## DEMO
 
-[Online QuickStart App](https://www.lidorsystems.com/products/web/studio/samples/web-components/) - An online demo of each component included
+[Online QuickStart App](https://www.lidorsystems.com/products/web/studio/samples/) - An online demo of each component included
 
 
 ## Installation
