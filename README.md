@@ -87,7 +87,7 @@ Follow these steps:
 2. Set the resourcePath property of IntegralUI Web components to point to the location set in your /public folder. In this case, for Grid for example:
 
 ```bash
-<IntegralUIGridComponent resourcePath="integralui-web-grid/icons"></IntegralUIGridComponent>
+<IntegralUIGridComponent resourcePath={'integralui-web-grid/icons'}></IntegralUIGridComponent>
 ```
 
 ### Vanilla JavaScript
