@@ -1,10 +1,10 @@
-# IntegralUI Web - Grid, v21.1
+# IntegralUI Web - Grid, v21.4
 
 IntegralUI Web - Grid is a native Web Component that displays tabular data sets. You can use it in Angular, React, Vue or any other JavaScript framework.
 
 <b>Note</b> This component is also part of [IntegralUI Web](https://github.com/lidorsystems/integralui-web.git) product suite.
 
-![IntegralUI Web - Grid 21.1 - Native Web Component](https://www.lidorsystems.com/products/web/studio/features/grid/integralui-web-grid.png)
+![IntegralUI Web - Grid 21.4 - Native Web Component](https://www.lidorsystems.com/products/web/studio/features/grid/integralui-web-grid.png)
 
 ## Main Features
 
@@ -42,6 +42,8 @@ npm i integralui-web-grid
 ```
 
 Open your application and add a reference to a component you want to use. For example, if you are using the IntegralUI Grid component:</p>
+
+<b>Note</b> A detailed information is available here: [How to Use IntegralUI Web Components](https://www.lidorsystems.com/help/integralui/web-components/introduction/installation/). Explains how to setup and use components for each framework: Angular, React or Vanilla JavaScript.
 
 ### Angular
 
